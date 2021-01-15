@@ -1,0 +1,11 @@
+<apex:page standardController="Account">
+    
+        <apex:pageBlock title="Lista di Opportunity e Contact">
+            
+           
+            <apex:detail relatedList="false" title="false" inlineEdit="true" />
+                <apex:relatedList list="Opportunities" />
+                <apex:relatedList list="Contacts"/>
+        </apex:pageBlock>        
+         
+</apex:page>

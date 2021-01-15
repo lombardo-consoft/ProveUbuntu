@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Corso</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Corsi</value>
+    </caseValues>
+    <fields>
+        <label><!-- Nome Corso --></label>
+        <name>Nome_Corso__c</name>
+    </fields>
+    <fields>
+        <label><!-- Numero Giornata --></label>
+        <name>Numero_Giornata__c</name>
+    </fields>
+    <fields>
+        <label><!-- Prezzo --></label>
+        <name>Prezzo__c</name>
+    </fields>
+    <gender>Masculine</gender>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

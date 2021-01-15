@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Prodotto</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Prodotti</value>
+    </caseValues>
+    <fields>
+        <help><!-- Inserire una descrizione del prodotto --></help>
+        <label><!-- Descrizione --></label>
+        <name>Descrizione__c</name>
+    </fields>
+    <fields>
+        <help><!-- Inserire il prezzo del prodotto --></help>
+        <label><!-- Prezzo --></label>
+        <name>Prezzo__c</name>
+    </fields>
+    <gender>Masculine</gender>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

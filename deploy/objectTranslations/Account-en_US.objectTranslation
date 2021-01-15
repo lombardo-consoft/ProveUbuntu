@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Prospect Rating</value>
+        </caseValues>
+        <name>rating_account</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <label><!-- Active --></label>
+        <name>Active__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Customer Priority --></label>
+        <name>CustomerPriority__c</name>
+        <picklistValues>
+            <masterLabel>High</masterLabel>
+            <translation><!-- High --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low</masterLabel>
+            <translation><!-- Low --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medium</masterLabel>
+            <translation><!-- Medium --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- First Name --></label>
+        <name>First_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Founding Date --></label>
+        <name>Founding_Date__c</name>
+    </fields>
+    <fields>
+        <help><!-- Selezionare se è presente o meno la garanzia --></help>
+        <label><!-- Garanzia --></label>
+        <name>Garanzia__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Name --></label>
+        <name>Last_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of Locations --></label>
+        <name>NumberofLocations__c</name>
+    </fields>
+    <fields>
+        <help><!-- In quale regione si trova il cliente --></help>
+        <label><!-- Region --></label>
+        <name>Region__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA Expiration Date --></label>
+        <name>SLAExpirationDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA Serial Number --></label>
+        <name>SLASerialNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA --></label>
+        <name>SLA__c</name>
+        <picklistValues>
+            <masterLabel>Bronze</masterLabel>
+            <translation><!-- Bronze --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gold</masterLabel>
+            <translation><!-- Gold --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Platinum</masterLabel>
+            <translation><!-- Platinum --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Silver</masterLabel>
+            <translation><!-- Silver --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Inserire la scadenza della garanzia quando selezionata --></help>
+        <label><!-- Scadenza Garanzia --></label>
+        <name>Scadenza_Garanzia__c</name>
+    </fields>
+    <fields>
+        <label><!-- Top Account --></label>
+        <name>Top_Account__c</name>
+    </fields>
+    <fields>
+        <label><!-- Upsell Opportunity --></label>
+        <name>UpsellOpportunity__c</name>
+        <picklistValues>
+            <masterLabel>Maybe</masterLabel>
+            <translation><!-- Maybe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Selezionare la zona desiderata in base alla regione del cliente --></help>
+        <label><!-- Zone --></label>
+        <name>Zone__c</name>
+        <picklistValues>
+            <masterLabel>Africa</masterLabel>
+            <translation><!-- Africa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Caribbean</masterLabel>
+            <translation><!-- Caribbean --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Central America</masterLabel>
+            <translation><!-- Central America --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Central Canada</masterLabel>
+            <translation><!-- Central Canada --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>East Asia</masterLabel>
+            <translation><!-- East Asia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>East Coast</masterLabel>
+            <translation><!-- East Coast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Europe</masterLabel>
+            <translation><!-- Europe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Middle East</masterLabel>
+            <translation><!-- Middle East --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Midwest US</masterLabel>
+            <translation><!-- Midwest US --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mountains and the West</masterLabel>
+            <translation><!-- Mountains and the West --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Northeast US</masterLabel>
+            <translation><!-- Northeast US --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Northern Canada</masterLabel>
+            <translation><!-- Northern Canada --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Oceania</masterLabel>
+            <translation><!-- Oceania --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>South America</masterLabel>
+            <translation><!-- South America --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southeast Asia</masterLabel>
+            <translation><!-- Southeast Asia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southeast US</masterLabel>
+            <translation><!-- Southeast US --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southwest US</masterLabel>
+            <translation><!-- Southwest US --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The Prairies</masterLabel>
+            <translation><!-- The Prairies --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UK + Ireland</masterLabel>
+            <translation><!-- UK + Ireland --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>West US</masterLabel>
+            <translation><!-- West US --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Layout di Prova</layout>
+        <sections>
+            <label><!-- Garanzia --></label>
+            <section>Garanzia</section>
+        </sections>
+        <sections>
+            <label><!-- Regione di Vendita --></label>
+            <section>Regione di Vendita</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- Per clienti e prospect --></description>
+        <label><!-- Customer Account --></label>
+        <name>Customer_Account</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Per i consulenti partner --></description>
+        <label><!-- Partner Record Type --></label>
+        <name>Partner_Record_Type</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- ciao --></label>
+        <name>ciaoc</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Inserisci la data di scadenza --></errorMessage>
+        <name>Scadenza_Garanzia</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Billing --></label>
+        <name>Billing</name>
+    </webLinks>
+</CustomObjectTranslation>

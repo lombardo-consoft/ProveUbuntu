@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Dipendente</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Dipendenti</value>
+    </caseValues>
+    <fields>
+        <label><!-- Ruolo --></label>
+        <name>Ruolo__c</name>
+    </fields>
+    <fields>
+        <label><!-- Team --></label>
+        <name>Team__c</name>
+        <relationshipLabel><!-- Dipendenti --></relationshipLabel>
+    </fields>
+    <gender>Masculine</gender>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

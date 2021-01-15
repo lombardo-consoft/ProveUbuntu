@@ -1,0 +1,11 @@
+<apex:page standardController="Team__c">
+    
+        <apex:pageBlock title="Team con Dipendenti">
+            
+           
+            <apex:detail relatedList="false" title="false" />
+                <apex:relatedList list="Dipendenti__r" />
+               
+        </apex:pageBlock>        
+         
+</apex:page>

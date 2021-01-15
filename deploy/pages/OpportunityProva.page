@@ -1,0 +1,23 @@
+<apex:page standardController="Opportunity " sidebar="false" showHeader="true">
+  <h1>Esercizio 2 VisualForce</h1>
+  <apex:form >
+        <apex:pageBlock title="Opportunity di Prova">
+            
+            <apex:pageBlockSection columns="4">
+                <apex:inputField value="{!Opportunity.Name}"/>
+                <apex:inputField value="{!Opportunity.OrderNumber__c}"/>
+                <apex:inputField value="{!Opportunity.StageName}"/>
+                <apex:inputField value="{!Opportunity.Type}"/>  
+                <apex:inputField value="{!Opportunity.MainCompetitors__c}"/>  
+                <apex:inputField value="{!Opportunity.Ragioni_di_Chiusura__c}"/>  
+            </apex:pageBlockSection>
+            
+            <apex:pageBlockButtons >
+                <apex:commandButton action="{!save}" value="Save"/>
+                 <apex:commandButton action="{!cancel}" value="Cancel"/>
+            </apex:pageBlockButtons>
+            
+        </apex:pageBlock>        
+    </apex:form>       
+      
+</apex:page>

@@ -1,0 +1,4 @@
+<apex:page >
+  <apex:image url="{!$Resource.ImgTest}" width="640px" height="480px" />
+  <apex:image url="{!URLFOR($Resource.img, 'img/dml.jpg')}" width="640"  height="480"/>
+</apex:page>
